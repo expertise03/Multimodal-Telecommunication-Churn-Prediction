@@ -6,7 +6,6 @@ Developed a multimodal AI system for telecom customer churn prediction and senti
 ![XGBoost](https://img.shields.io/badge/ML-XGBoost-green)
 ![TensorFlow](https://img.shields.io/badge/DL-TensorFlow-red)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey)
-![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)
 ![License](https://img.shields.io/badge/license-RA--License-blue)
 
 ### 🔍 An End-to-End Multimodal AI System for **Customer Churn Prediction** & **Sentiment Analysis**
@@ -48,9 +47,6 @@ https://github.com/user-attachments/assets/744090c7-ae65-4e4f-a65d-681f89e58751
 12. [Usage Examples](#-12-usage-examples)
 13. [Conclusion](#-13-conclusion) 
 14. [Future Scope & Deployment](#-14-future-scope--deployment)
-15. [Author](#-15-author)
-16. [License](#-16-license)
-
 ---
 
 ## 🧠 1. Project Overview
@@ -373,8 +369,6 @@ The application features a **clean, interactive, and industry-ready Streamlit UI
   
 ### 📊 Business Dashboard – Churn & Revenue Insights 
   > For CRM & management teams — full business analysis: - KPI Metrics - Revenue at Risk - Segmentation Analysis - Heatmaps & Churn Trends
-   
-   ![Uploading business_dashboard_page.png…]()
 
 --- 
    
@@ -412,10 +406,6 @@ The application features a **clean, interactive, and industry-ready Streamlit UI
 <img width="1920" height="2158" alt="history_insights_page" src="https://github.com/user-attachments/assets/126caa60-89e8-41c7-b5da-bef2afe60920" />
 
 --- 
-
-### ! Help & Info 
-
-<img width="1920" height="4132" alt="help_info_page" src="https://github.com/user-attachments/assets/ba87441b-f45a-4c96-a39c-2fa4cdf18136" />
 
 ---
 
